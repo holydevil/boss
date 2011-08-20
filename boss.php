@@ -2,7 +2,7 @@
 require("OAuth.php");
 
 //setup variables
-$cc_key  = "consumer key"
+$cc_key  = "consumer key";
 $cc_secret = "consumer secret";
 //$url = "http://yboss.yahooapis.com/ysearch/news,web,images"; // uncomment this line for doing web, news and images in one single query
 $url = "http://yboss.yahooapis.com/ysearch/web";
